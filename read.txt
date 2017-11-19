@@ -1,6 +1,2 @@
 inch vor ban
-<<<<<<< HEAD
 Suroi arac popoxutyunner
-=======
-Edvard@ arec popoxutyun
->>>>>>> c7ce263a16d85c2f5f79e9b749d8d9582e34461c
